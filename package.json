@@ -1,8 +1,9 @@
 {
-  "name": "vite_react_shadcn_ts",
-  "private": true,
+  "name": "smart_workouts",
   "version": "0.0.0",
   "type": "module",
+  "author": "Ramiro Sarasola",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
